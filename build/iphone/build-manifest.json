@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/peachpellen/Library/Application Support/Titanium/mobilesdk/osx/3.1.1.GA/iphone",
+	"appGuid": "b8b513f6-fd81-466b-8990-44f5c1eb335c",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "4f7a5aea0fdecf48de62c23fa1a74397",
+	"nativeModulesHash": "acc4ac6f2e3cb0dfd53a84e93a58c17a",
+	"gitHash": "f7592c1",
+	"name": "Slots",
+	"id": "com.peachpellen.platino",
+	"analytics": true,
+	"publisher": "peachpellen",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by peachpellen",
+	"guid": "b8b513f6-fd81-466b-8990-44f5c1eb335c",
+	"skipJSMinification": false,
+	"forceCopy": false,
+	"forceCopyAll": false
+}

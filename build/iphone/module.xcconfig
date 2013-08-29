@@ -1,0 +1,4 @@
+// this is a generated file - DO NOT EDIT
+
+CO_LANICA_PLATINO_OTHER_LDFLAGS=$(inherited) -framework GLKit
+OTHER_LDFLAGS=$(inherited) $(CO_LANICA_PLATINO_OTHER_LDFLAGS) 

@@ -1,0 +1,1 @@
+/Users/peachpellen/Desktop/Slots/Resources/app.js
